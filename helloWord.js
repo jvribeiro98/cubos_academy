@@ -1,1 +1,1 @@
-console.lohg("Olá, mundo")
+console.log("Olá, mundo")

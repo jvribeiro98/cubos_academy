@@ -1,0 +1,1 @@
+console.lohg("Olá, mundo")
